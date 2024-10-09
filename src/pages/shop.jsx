@@ -133,4 +133,6 @@ const shop = () => {
   </>;
 }
 
+// 2
+
 export default shop
